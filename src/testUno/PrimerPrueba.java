@@ -6,6 +6,9 @@ public class PrimerPrueba {
 		// TODO Auto-generated method stub
 		String var = "Esta es la primer prueba";
 		String change = "Cambio hecho desde gitHub";
+		
+		System.out.println(var);
+		System.out.println(change);
 	}
 
 }
